@@ -11,4 +11,4 @@ Elifont, copyrighted by ProjectEli 2019
 ## Description
 Elifont_v2_regular.ttf : the second version of regular type with cursive style.
 
-Elifont_v2_regular_smallL_line.ttf : same but modified l with linear style.
+Elifont_v2_regular_smallL_line.ttf : same but modified l to linear style.
